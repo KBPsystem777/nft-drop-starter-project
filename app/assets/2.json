@@ -1,0 +1,19 @@
+{
+  "name": "Wolf of Winterfell",
+  "symbol": "KBPsystem",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "EdRvSenepVPgBsWut1B6XrKoo25E7Y6ySqXLcN9An1ei",
+        "share": 100
+      }
+    ]
+  }
+}
