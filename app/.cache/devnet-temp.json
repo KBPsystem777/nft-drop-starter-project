@@ -1,0 +1,29 @@
+{
+  "program": {
+    "uuid": "DYKrTL",
+    "candyMachine": "DYKrTLLytHST5g6YjDrnzoUQUG6XMG9WVLkKBSMfpmjn",
+    "collection": "9geXYsU1xvfMTWYTjyvKTeMA5tyhgEJv6SY3uoQ2ij1F"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/8bxNPWvOnV6Ifa_S9FdgqhYLxChzc8yBkpMneUXPbcs",
+      "name": "Attak Heli",
+      "onChain": true,
+      "verifyRun": false
+    },
+    "1": {
+      "link": "https://arweave.net/yw-AzwQSof7fOfJ4oU2Cg3pTdjJdfBeRbuJP8W0iIyE",
+      "name": "Targaryen Dragons",
+      "onChain": true,
+      "verifyRun": false
+    },
+    "2": {
+      "link": "https://arweave.net/rwhA4Hn7kZrKzezlaEeOLV93tCpCXzIZuF4-6B6-1sA",
+      "name": "Wolf of Winterfell",
+      "onChain": true,
+      "verifyRun": false
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp"
+}
